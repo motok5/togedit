@@ -1,0 +1,15 @@
+{
+  "name": "togedit",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "ace-min-noconflict": "^1.1.9",
+    "actioncable": "^5.2.0",
+    "vue": "^2.5.17",
+    "vue-loader": "14.2.2",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
